@@ -7,10 +7,18 @@ img{
     width: 50%;
 }
 .orange-text{
-    color:orange;
+    color:rgb(0, 255, 0);
+    font-style: oblique;
+    font-family:inherit;
+
+}
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #cfcfdb;
 }
 .sec1-div{
-    height:500px;
+    height:400px;
     width: 38%;
     float: right;
     background-color: pink;
@@ -70,13 +78,6 @@ margin-bottom:0 ;
 /* shop */
 .footer{
 	position:relative;
-	background: #414045; 
-	background: -moz-linear-gradient(top,  #414045 55%, #2f2e33 100%); 
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(55%,#414045), color-stop(100%,#2f2e33));
-	background: -webkit-linear-gradient(top,  #414045 55%,#2f2e33 100%); 
-	background: -o-linear-gradient(top,  #414045 55%,#2f2e33 100%); 
-	background: -ms-linear-gradient(top,  #414045 55%,#2f2e33 100%); 
-	background: linear-gradient(to bottom,  #414045 55%,#2f2e33 100%); 
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#414045', endColorstr='#2f2e33',GradientType=0 );
-	box-shadow: inset 0px 1px 8px #222;
+	background:  #9b9bb1 ;
+    box-shadow: inset 0px 1px 8px rgb(247, 247, 247);
 }
