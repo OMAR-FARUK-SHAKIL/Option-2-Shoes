@@ -1,0 +1,82 @@
+nav ul{
+    text-decoration: none;
+    
+    margin-left:10px;
+}
+img{
+    width: 50%;
+}
+.orange-text{
+    color:orange;
+}
+.sec1-div{
+    height:500px;
+    width: 38%;
+    float: right;
+    background-color: pink;
+    position: absolute;
+    top: 100px;
+    right: 0px;
+    left: 52%;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+}
+.fst-section{
+background-color: pink;
+position: relative;
+margin-bottom:0 ;
+}
+.nav-size{
+    height: 100px;
+    background-color: pink;
+    padding: 0;
+    margin: 0;
+}
+
+.img-style{
+    height: 400px;
+    width: 350px;
+}
+
+.nav-style{
+    width: 65%;
+    align-items: right;
+    margin-right: 100px;
+}
+
+.lg-text{
+    font-size: 50px;
+    font-weight: 300;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-style: bold;
+}
+
+.mini-img{
+    height: 50px;
+    width: 50px;
+}
+.big-img{
+    height: 20em;
+    width: 20em;
+}
+.heading{
+    color: rgb(4, 248, 77);
+    font-size: 40px;
+    font-weight:300;
+    font-family: fantasy;
+    font-style: inherit;
+}
+/* shop */
+.footer{
+	position:relative;
+	background: #414045; 
+	background: -moz-linear-gradient(top,  #414045 55%, #2f2e33 100%); 
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(55%,#414045), color-stop(100%,#2f2e33));
+	background: -webkit-linear-gradient(top,  #414045 55%,#2f2e33 100%); 
+	background: -o-linear-gradient(top,  #414045 55%,#2f2e33 100%); 
+	background: -ms-linear-gradient(top,  #414045 55%,#2f2e33 100%); 
+	background: linear-gradient(to bottom,  #414045 55%,#2f2e33 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#414045', endColorstr='#2f2e33',GradientType=0 );
+	box-shadow: inset 0px 1px 8px #222;
+}
